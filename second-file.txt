@@ -1,1 +1,2 @@
 "This is another file in the second branch" 
+Added new line
